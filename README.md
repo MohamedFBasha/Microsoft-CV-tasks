@@ -1,1 +1,1 @@
-# Microsoft-CV-tasks
+# computer vision projects
